@@ -25,11 +25,11 @@ Welcome to my personal portfolio! This repository showcases my projects, skills,
 
 
 ## Education
-- **M.Sc. of Data Science and AI Program   **
+- **  M.Sc. of Data Science and AI Program   **
   - Queens University , 2025
-- **M.Sc.  of Computers and Control Systems Engineering **
+- **  M.Sc.  of Computers and Control Systems Engineering **
   - Mansoura University , 2024
-- **B.Sc. of Biomedical Engineering **
+- **  B.Sc. of Biomedical Engineering **
   - Mansoura University, 2019
 
 ## Contact
